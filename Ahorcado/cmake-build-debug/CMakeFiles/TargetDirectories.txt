@@ -1,0 +1,3 @@
+C:/Programación/CLionProjects/Ahorcado/cmake-build-debug/CMakeFiles/Ahorcado.dir
+C:/Programación/CLionProjects/Ahorcado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programación/CLionProjects/Ahorcado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

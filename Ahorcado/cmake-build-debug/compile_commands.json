@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Programación/CLionProjects/Ahorcado/cmake-build-debug",
+  "command": "C:\\PROGRA~4\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Ahorcado.dir\\main.cpp.obj -c C:\\Programación\\CLionProjects\\Ahorcado\\main.cpp",
+  "file": "C:/Programación/CLionProjects/Ahorcado/main.cpp",
+  "output": "C:/Programación/CLionProjects/Ahorcado/cmake-build-debug/CMakeFiles/Ahorcado.dir/main.cpp.obj"
+}
+]
